@@ -1,4 +1,7 @@
+# Screenshots
+
 ## Desktop
-![Screenshot](/images/screenshot-desktop.png)
+![Desktop screenshot](./images/screenshot-desktop.png)
+
 ## Mobile
-![Screenshot](/images/screenshot-mobile.png)
+![Mobile screenshot](./images/screenshot-mobile.png)git status
