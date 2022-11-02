@@ -4,4 +4,4 @@
 ![Desktop screenshot](./images/screenshot-desktop.png)
 
 ## Mobile
-![Mobile screenshot](./images/screenshot-mobile.png)git status
+![Mobile screenshot](./images/screenshot-mobile.png)
